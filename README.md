@@ -1,6 +1,6 @@
 # Cross Modal Retrieval
 
-Pytorch implementation of cross model retrieval on dataset IAPR TC-12.
+1Pytorch implementation of cross model retrieval on dataset IAPR TC-12.
 
 ## Dataset Introduction
 
